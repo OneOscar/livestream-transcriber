@@ -1,9 +1,0 @@
-{
-  "watch_dir": "C:/path/to/DouyinLiveRecorder/downloads",
-  "ffmpeg": "C:/path/to/ffmpeg.exe",
-  "transcripts_dir": "C:/path/to/transcripts",
-  "models_cache": "C:/path/to/models_cache",
-  "poll_seconds": 60,
-  "stable_seconds": 30,
-  "segment_min_mb": 2
-}
