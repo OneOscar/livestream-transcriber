@@ -1,0 +1,23 @@
+# 真实凭据 - 严禁上传
+email_config.json
+ai_config.json
+config.json
+
+# 本地数据
+transcripts/
+downloads/
+recordings/
+models_cache/
+modelscope_home/
+hf_cache/
+venv/
+pip_cache/
+wheels/
+node-v*/
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
